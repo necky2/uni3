@@ -1,0 +1,125 @@
+{
+  "product": "uu_uni3l_maing01",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "uu_uni3l_maing01-hi": {
+    "componentList": [
+      {
+        "code": "UuUni3l.Routes.MyRoute",
+        "name": "MyRoute",
+        "tagList": [
+          "UuUni3l",
+          "Routes",
+          "MyRoute"
+        ],
+        "docCode": "UuUni3lRoutesMyRoute",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni3l.Routes.MyRoute />"
+      },
+      {
+        "code": "UuUni3l.Bricks.Language",
+        "name": "Language",
+        "tagList": [
+          "UuUni3l",
+          "Bricks",
+          "Language"
+        ],
+        "docCode": "UuUni3lBricksLanguage",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni3l.Bricks.Language />"
+      },
+      {
+        "code": "UuUni3l.Bricks.Dates",
+        "name": "Dates",
+        "tagList": [
+          "UuUni3l",
+          "Bricks",
+          "Dates"
+        ],
+        "docCode": "UuUni3lBricksDates",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni3l.Bricks.Dates />"
+      },
+      {
+        "code": "UuUni3l.Bricks.Numbers",
+        "name": "Numbers",
+        "tagList": [
+          "UuUni3l",
+          "Bricks",
+          "Numbers"
+        ],
+        "docCode": "UuUni3lBricksNumbers",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni3l.Bricks.Numbers />"
+      },
+      {
+        "code": "UuUni3l.Bricks.Authorization",
+        "name": "Authorization",
+        "tagList": [
+          "UuUni3l",
+          "Bricks",
+          "Authorization"
+        ],
+        "docCode": "UuUni3lBricksAuthorization",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni3l.Bricks.Authorization />"
+      },
+      {
+        "code": "UuUni3l.Bricks.DataLoading",
+        "name": "DataLoading",
+        "tagList": [
+          "UuUni3l",
+          "Bricks",
+          "DataLoading"
+        ],
+        "docCode": "UuUni3lBricksDataLoading",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni3l.Bricks.DataLoading />"
+      },
+      {
+        "code": "UuUni3l.Routes.ListRoute",
+        "name": "ListRoute",
+        "tagList": [
+          "UuUni3l",
+          "Routes",
+          "ListRoute"
+        ],
+        "docCode": "UuUni3lRoutesListRoute",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni3l.Routes.ListRoute />"
+      }
+    ]
+  },
+  "uu_uni3l_maing01-server": {}
+}
